@@ -1,6 +1,7 @@
 .main_container
 {
- margin-left:200px;
- margin-right:200px;
- text-align:center;
+ element.style
+ {
+ margin-left:300px;
+ }
 }
